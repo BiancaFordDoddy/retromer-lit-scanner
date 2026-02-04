@@ -1,0 +1,9 @@
+Summary:
+This paper investigates the role of retromer in endosomal recycling. Using knockout models, the study shows...
+
+Comparison:
+Paper A links retromer to neuronal protection, while Paper B disputes its neuroprotective role...
+
+Before/After:
+Manual review: ~4 hrs per 10 papers
+With tool: ~1 hr, consistent summaries

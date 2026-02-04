@@ -1,0 +1,5 @@
+Summarize the following paper with key findings, methodology, and limitations.
+
+Compare these two papers and identify conflicting findings or consensus.
+
+Extract the following from the abstract and discussion: objectives, results, and limitations.
